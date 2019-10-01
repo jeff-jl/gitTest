@@ -14,3 +14,6 @@ cat -n ~/.gitconfig
 >>>>>>> 61537aa04b963fc3bc225772bc0523f3dad78665
 
 阿斯顿发斯蒂芬
+https://CmderQ:#####@github.com/CmderQ/hello.git 
+
+https://jeff-jl:++++++@github.com/jeffjl-jl/gitTest.git
