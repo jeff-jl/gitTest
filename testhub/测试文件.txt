@@ -3,3 +3,8 @@
 	email = jeffjl@sina.com
 [credential]
 	helper = store
+	
+git config --global credential.helper store	
+cat -n ~/.gitconfig
+
+不生效呀
