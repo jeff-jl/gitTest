@@ -5,6 +5,12 @@
 	helper = store
 	
 git config --global credential.helper store	
+<<<<<<< HEAD
 cat -n ~/.gitconfig
 
 不生效呀
+=======
+cat -n ~/.gitconfig
+>>>>>>> 61537aa04b963fc3bc225772bc0523f3dad78665
+
+阿斯顿发斯蒂芬
